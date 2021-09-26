@@ -8,7 +8,7 @@
 	
 	<h1 style="color: black; font-size: 40px;" align="left">  Python</h1>
 	
-	<h1 style="color: orange; font-size: 40px;" align="left">  Pega</h1>
+	<h1 style="color: orange; font-size: 40px;" align="left">  Dot Net</h1>
 	
 	
 </body>
