@@ -90,7 +90,7 @@ git push origin master ==>> githubaccountname and github passsowrd ==>>> remote.
 
 
 
-  501  git clone https://github.com/srinivas1987devops/myweb.git
+  501  git branch: 'dev1', credentialsId: 'pramod', url: 'https://github.com/pramod123-1/ps.git'
   502  ls
   503  cd myweb/
   504  ls
